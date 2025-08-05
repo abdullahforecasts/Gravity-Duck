@@ -1,0 +1,49 @@
+Game constructor called
+Created level 1
+Created level 2
+Created level 3
+Created level 4
+Created level 5
+Created level 6
+Created level 7
+Created level 8
+Created level 9
+Created level 10
+Created level 11
+Initializing game
+Loaded and playing music
+Game initialization complete
+Starting game loop
+Start game button pressed
+SHOP] - Skin: DEFAULT
+[SHOP] - Coins: 0
+[SHOP] - Eggs: 0
+[SHOP] Loading background texture...
+[SHOP] Background texture loaded successfully
+[SHOP] Loading coin animation texture...
+[SHOP] Coin animation loaded successfully
+[SHOP] Loading egg texture...
+[SHOP] Egg texture loaded successfully
+[SHOP] All base textures loaded
+[SHOP] Loading duck skins...
+[SHOP] Duck skins loading completed
+[SHOP] Loading gamble textures...
+[SHOP] Gamble textures loading completed
+[SHOP] Loading sounds...
+[SHOP] Sound loading completed
+[SHOP] Loading saved state...
+[SHOP] Generating initial exchange rate...
+[SHOP] Shop initialization completed
+
+===== SHOP STATE DUMP =====
+[SHOP] Current State: 0
+[SHOP] Current Skin: 3
+[SHOP] Coins: 20.24
+[SHOP] Eggs: 183
+[SHOP] Exchange Rate: 5.10
+[SHOP] Unlocked Skins: 1 2 3 
+[SHOP] Is Gambling: No
+[SHOP] Gamble Result: -1
+[SHOP] Gamble Timer: 0.00
+==========================
+
