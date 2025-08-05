@@ -1,0 +1,47 @@
+    Gravity Duck (1.0)
+
+    Created by Abdullah Nawaz
+    Completion Date: 5 August 2025
+
+    --------------------------------------------
+
+    Project Purpose:
+    Gravity Duck is more than just a platformer—it's a call to awareness. 
+    Through gameplay and symbolism, this game reflects the real-world brutality ducks face 
+    in industries of fashion, meat, and entertainment. Each trap, wall, and obstacle 
+    is a metaphor—an echo of the suffering often ignored.
+
+    --------------------------------------------
+
+    Awareness & Advocacy:
+
+    Inspired by real-life investigations and reports such as:
+
+    - “Feathers Flying: The Cruelty Behind Down Products”  
+      [PETA Article](https://www.peta.org/features/live-plucked-down/)  
+      
+    - “Billions of Male Ducklings Ground Up Alive”  
+      [PETA Report](https://www.peta.org/blog/chicks-ground-up-alive/)  
+
+    You can learn more and support efforts against animal cruelty at [PETA.org].
+
+    You are also encouraged to **donate to organizations like PETA** working for animal justice.
+
+    --------------------------------------------
+
+    Credits and Contact:
+
+    Developer: Abdullah Nawaz  
+    GitHub: https://github.com/abdullahforecasts  
+    LeetCode: https://leetcode.com/u/Abdullah_Nawaz  
+    LinkedIn: https://www.linkedin.com/in/abdullah-nawaz-a756b2310  
+    Email: abdullahforecasts@gmail.com
+
+    💫 Feel free to follow, connect, give feedback, or ⭐️ star the project on GitHub!
+
+    --------------------------------------------
+    
+    Special thanks to the activists, rescuers, and truth-tellers who continue 
+    to speak for those without a voice.
+
+    "Some games entertain. This one remembers."
