@@ -64,7 +64,7 @@ A platformer with purpose —
 
 ### 🎰 Gambling Store:
 
-* Gamble with coins to win:
+* Gamble with eggs to win:
 
   * A new egg
   * 30 coins
