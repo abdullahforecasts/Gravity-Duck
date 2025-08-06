@@ -119,9 +119,9 @@ Level Structure !
 
 Each obstacle in the game personifies a real-world contributor to duck brutality — turning gameplay into a symbolic rescue mission.
 
-🔗 [“Feathers Flying: The Cruelty Behind Down Products” (PETA)](https://www.peta.org/features/live-plucked-down/)
+🔗 [“Down Production: Birds Abused for Their Feathers” (PETA)](https://www.peta.org/features/down-investigation/)
 
-🔗 [“Billions of Male Ducklings Ground Up Alive” (PETA Blog)](https://www.peta.org/blog/chicks-ground-up-alive/)
+🔗 [“Live Ducklings Ground Up” (PETA )](https://investigations.peta.org/culver-duck-whistleblower/)
 
 > The goal: **awareness, empathy, and a call to question comfort built on cruelty**.
 
